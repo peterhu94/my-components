@@ -1,0 +1,1 @@
+An other method to fix the footer to the bottom position (with calc)
