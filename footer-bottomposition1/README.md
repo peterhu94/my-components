@@ -1,0 +1,1 @@
+An example to fix the footer on the bottom position
