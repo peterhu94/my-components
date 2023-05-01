@@ -1,0 +1,1 @@
+Ez egy egyszerű footer minta html és css kódja.
